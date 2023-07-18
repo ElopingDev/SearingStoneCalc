@@ -1,0 +1,2 @@
+C:/Users/elopi/Desktop/Folders/Dev/Projects/SearingStoneProfit/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/elopi/Desktop/Folders/Dev/Projects/SearingStoneProfit/build/CMakeFiles/ZERO_CHECK.dir
