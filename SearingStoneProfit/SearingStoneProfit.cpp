@@ -30,6 +30,7 @@ int main() {
     std::cout << "\nYou can craft " << craftable << " searing stones, and you need to buy : \n";
     std::cout << "Enchanted Magma Cream: " << magmaCream << "\n";
     std::cout << "Enchanted Netherrack: " << netherrack << "\n";
-
+    std::cin.ignore();
+    std::cin.get();
     return 0;
 }
